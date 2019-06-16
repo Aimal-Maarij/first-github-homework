@@ -9,7 +9,7 @@
 ---
 
 |  | student emoji | student comments | coach emoji | coach comments |
-| --- | --- | --- | --- | --- |
+| :white_check_mark: | --- | --- | --- | --- |
 | your name | your emoji | your comments | | |
 
 ___
