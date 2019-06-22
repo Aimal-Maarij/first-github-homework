@@ -10,7 +10,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Aimal |:white_check_mark:| your comments | | |
+| Aimal |:white_check_mark:| Its done | | |
 
 ___
 ___
